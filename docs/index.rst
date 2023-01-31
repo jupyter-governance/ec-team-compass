@@ -12,8 +12,8 @@ Executive Council repositories, see the
 Resources
 =========
 
-Information about the Jupyter Executive Council can be found in the
- `Jupyter Governance <https://jupyter.org/governance/executive_council.html>`_.
+Information about the Jupyter Executive Council can be found on the
+ `Jupyter Governance website <https://jupyter.org/governance/executive_council.html>`_.
 
 Why have a Team Compass?
 ========================
