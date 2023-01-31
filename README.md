@@ -1,6 +1,6 @@
 # Executive Council team-compass
-A repository for team interaction, syncing, and handling meeting notes across
-the Executive Council ecosystem.
+A repository for team interaction, syncing, and handling meeting notes for
+the Jupyter Executive Council .
 
 ## Code of Conduct
 As an official part of Project Jupyter, all communication across all
