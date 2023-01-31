@@ -1,33 +1,24 @@
-=============================
+==============================
 Executive Council Team Compass
-=============================
+==============================
 
 
 This page contains links to the notes from team meetings
 with the Executive Council community.
-For more some more technical information and links to various
+For more some more information and links to various
 Executive Council repositories, see the
 `Team Compass README <https://github.com/jupyter/execute-council-team-compass>`_.
 
-Team Compass Resources
-======================
+Resources
+=========
 
-The following pages contain information about the Executive Council
-team, resources for community members, and team practices for
-governance and planning.
-
-.. toctree::
-   :maxdepth: 1
-
-   team
-   team/becoming-member
-   team/decision-making
-   team/member-guide
+Information about the Jupyter Executive Council can be found on the
+ `Jupyter Governance website <https://jupyter.org/governance/executive_council.html>`_.
 
 Why have a Team Compass?
 ========================
 
-This repository helps the Executive Council team set a weekly
+This repository helps the Jupyter Executive Council set a weekly
 course for project activity. Our overriding goal is continuous team and
 project improvement.
 
@@ -40,16 +31,17 @@ needed. The repo contains:
 - communication and culture of respectful teamwork
 - recognitions and team celebrations
 
-We sail together
-================
+How decisions are made
+======================
 
-While we value each others individual strengths and contributions, we succeed
-or fail as a team. Whether taking corrective actions for a bug or being
-recognized for good work, the team, instead of an individual, shoulders
-the burden and success.
+The Jupyter Executive Council follows the
+`"Decision Making" Guidelines <https://jupyter.org/governance/decision_making.html#required-aspects-of-decision-making>`_ described in the main Jupyter governance documents.
+
+In short, we'll first seek an informal consensus. If a clear consensus cannot be reached, an active council member can call for a vote. The voting process then follows the guidelines laid out by the `Jupyter Governance model <https://jupyter.org/governance/decision_making.html#required-aspects-of-decision-making>`_.
+
 
 Code of Conduct
 ===============
 
-The Executive Council community follows the broader
+The Jupyter Executive Council follows the broader
 `Jupyter Community's Code of Conduct <https://jupyter.org/governance/conduct/code_of_conduct.html>`_.
