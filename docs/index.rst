@@ -45,3 +45,13 @@ Code of Conduct
 
 The Jupyter Executive Council follows the broader
 `Jupyter Community's Code of Conduct <https://jupyter.org/governance/conduct/code_of_conduct.html>`_.
+
+
+
+Table of Contents
+-----------------
+
+.. toctree::
+   :maxdepth: 2
+
+   Meeting Notes <meeting_notes>
