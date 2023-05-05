@@ -4,3 +4,4 @@ sphinx_book_theme
 pandas
 ruamel.yaml
 myst_parser
+urllib3<2
