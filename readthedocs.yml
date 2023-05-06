@@ -3,3 +3,5 @@ type: sphinx
 requirements_file: docs/requirements.txt
 python:
   version: 3
+build:
+  os: ubuntu-22.04
