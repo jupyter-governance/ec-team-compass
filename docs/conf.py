@@ -88,7 +88,7 @@ def setup(app):
 html_theme = 'sphinx_book_theme'
 
 # Logo
-html_logo = '_static/logo.png'
+html_logo = '_static/rectanglelogo-greytext-orangebody-greymoons.svg'
 html_favicon = '_static/favicon.png'
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -96,7 +96,9 @@ html_favicon = '_static/favicon.png'
 # documentation.
 #
 html_theme_options = {
-    "logo_only": True
+    "logo": {
+        "image_dark": "_static/rectanglelogo-whitetext-orangebody-whitemoons.svg",
+    },
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
