@@ -41,7 +41,7 @@ templates_path = ['_templates']
 source_suffix = ['.rst', '.md']
 
 # The master toctree document.
-master_doc = 'readme'
+master_doc = 'index'
 
 # General information about the project.
 project = 'Jupyter Executive Council Team Compass'
