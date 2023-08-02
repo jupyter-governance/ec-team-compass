@@ -44,9 +44,9 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Team Compass'
+project = 'Jupyter Executive Council Team Compass'
 copyright = '2021, Project Jupyter Contributors'
-author = 'Executive Council'
+author = 'Jupyter Executive Council'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
