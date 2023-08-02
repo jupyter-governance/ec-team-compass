@@ -41,7 +41,7 @@ templates_path = ['_templates']
 source_suffix = ['.rst', '.md']
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'readme'
 
 # General information about the project.
 project = 'Jupyter Executive Council Team Compass'
@@ -96,6 +96,10 @@ html_favicon = '_static/favicon.png'
 # documentation.
 #
 html_theme_options = {
+    "repository_url": "https://github.com/jupyter/executive-council-team-compass/",
+    "repository_branch": "main",
+    "use_repository_button": True,
+    "home_page_in_toc": True,
     "logo": {
         "image_dark": "_static/rectanglelogo-whitetext-orangebody-whitemoons.svg",
     },

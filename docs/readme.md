@@ -21,6 +21,7 @@ Conduct](https://jupyter.org/governance/conduct/code_of_conduct.html)
 
 ```{toctree}
 :titlesonly:
-meeting_notes/index
-office_hours/index
+meeting_notes/readme
+office_hours/readme
+workinggroups/readme
 ```
