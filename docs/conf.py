@@ -44,9 +44,9 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Team Compass'
+project = 'Jupyter Executive Council Team Compass'
 copyright = '2021, Project Jupyter Contributors'
-author = 'Executive Council'
+author = 'Jupyter Executive Council'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -88,7 +88,7 @@ def setup(app):
 html_theme = 'sphinx_book_theme'
 
 # Logo
-html_logo = '_static/logo.png'
+html_logo = '_static/rectanglelogo-greytext-orangebody-greymoons.svg'
 html_favicon = '_static/favicon.png'
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -96,7 +96,13 @@ html_favicon = '_static/favicon.png'
 # documentation.
 #
 html_theme_options = {
-    "logo_only": True
+    "repository_url": "https://github.com/jupyter/executive-council-team-compass/",
+    "repository_branch": "main",
+    "use_repository_button": True,
+    "home_page_in_toc": True,
+    "logo": {
+        "image_dark": "_static/rectanglelogo-whitetext-orangebody-whitemoons.svg",
+    },
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
