@@ -4,6 +4,6 @@ The Jupyter Executive Council meets privately each week. A summary of meeting no
 
 ```{toctree}
 :titlesonly:
-2023_Q1
-2023_Q2
+2023
+2024
 ```
