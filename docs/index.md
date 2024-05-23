@@ -31,5 +31,5 @@ EC members allocate time during our weekly scheduled meetings to review new issu
 operations
 meeting_notes/index
 office_hours/index
-reports/index
+reports/communitybuilding/readme
 ```
