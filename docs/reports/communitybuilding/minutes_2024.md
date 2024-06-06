@@ -1,5 +1,15 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 6 June 2024
+* Community Report: per our charter this working group has quarterly reports due to the Executive Council and an annual blog post for the community. The working group has revised this process to include two reports annually for both the community and the EC. The EC report may include non public portions. In this meeting we finalized content for publishing -  the EC report for the second half of 2023. This report is past due and is the first public report this working group will generate. 
+* Start the EC report for 2024 H1
+* Discuss recommendations for Community Census Report
+
+## 30 May 2024
+* Communicate to community about public minutes: will create a post on Discourse
+* Working group reviewed the report in progress resulting from interviews conducted with each Jupyter Subproject. In this meeting we discussed and flesh out specific recommendations from the JCB survey report. Current areas of discussion:
+  * Establishing a budget request process for subprojects to request funds/resources from EC
+  * Regular program of cross-subproject virtual and in-person meetings
 
 ## 23 May 2024
 
