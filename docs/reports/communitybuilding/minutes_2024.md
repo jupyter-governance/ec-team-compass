@@ -8,7 +8,7 @@
 The meeting 6/13/24 was canceled due to 3 out of the 4 committee members being unable to join. 
 
 ## 6 June 2024
-* Community Report: per our charter this working group has quarterly reports due to the Executive Council and an annual blog post for the community. The working group has revised this process to include two reports annually for both the community and the EC. The EC report may include non public portions. In this meeting we finalized content for publishing -  the EC report for the second half of 2023. This report is past due and is the first public report this working group will generate. 
+* Community Report: per our charter, this working group has quarterly reports due to the Executive Council and an annual blog post for the community. The working group has revised this process to include two reports annually for both the community and the EC. The EC report may include non public portions. In this meeting we finalized content for publishing the EC report for the second half of 2023. This report is past due and is the first public report this working group will generate. 
 * Start the EC report for 2024 H1
 * Discuss recommendations for Community Census Report
 
