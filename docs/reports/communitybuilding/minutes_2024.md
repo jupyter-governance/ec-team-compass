@@ -1,5 +1,12 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 20 June 2024
+* Discussed recommendations for Community Census Report, made good progress on recommendations section and made a plan for writing up remaining content. We’re about ¾ done with writing this report.
+* Offboarding: due to work commitments, Rollin Thomas  is planning to exit the committee this month. We thank him for his contributions! His leadership and the time dedicated toward this working group’s effort to conduct community interviews and the report summarizing the results are incredibly valuable to the Jupyter community.  
+
+## 13 June 2024
+The meeting 6/13/24 was canceled due to 3 out of the 4 committee members being unable to join. 
+
 ## 6 June 2024
 * Community Report: per our charter this working group has quarterly reports due to the Executive Council and an annual blog post for the community. The working group has revised this process to include two reports annually for both the community and the EC. The EC report may include non public portions. In this meeting we finalized content for publishing -  the EC report for the second half of 2023. This report is past due and is the first public report this working group will generate. 
 * Start the EC report for 2024 H1
