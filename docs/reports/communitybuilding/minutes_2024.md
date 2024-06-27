@@ -19,7 +19,6 @@ The meeting 6/13/24 was canceled due to 3 out of the 4 committee members being u
   * Regular program of cross-subproject virtual and in-person meetings
 
 ## 23 May 2024
-
 * EC Reports: We reviewed and discussed 2023 H2 (second half of 2023) and discussed 2024 H1. This led to discussion surrounding cadence of reports and led to a bigger conversation about transparency and weekly minutes. 
 * Transparency: Improving transparency for this working group
 * Public minutes need to be established. Jason will create a place in the EC team compass for our weekly public minutes
