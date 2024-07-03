@@ -1,5 +1,9 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 27 June 2024
+* Community Census Report: talked through recommendations for the onboarding recommendation. Rollin created a checklist for publishing, and we edited and added to it during the meeting. 
+* We also discussed how and where we would publish this report. We converged on adding an Executive Summary on our Team Compass and put a link to the PDF. We could then publish that link to a Discourse post. 
+
 ## 20 June 2024
 * Discussed recommendations for Community Census Report, made good progress on recommendations section and made a plan for writing up remaining content. We’re about ¾ done with writing this report.
 * Offboarding: due to work commitments, Rollin Thomas  is planning to exit the committee this month. We thank him for his contributions! His leadership and the time dedicated toward this working group’s effort to conduct community interviews and the report summarizing the results are incredibly valuable to the Jupyter community.  
