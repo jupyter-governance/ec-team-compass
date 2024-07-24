@@ -1,5 +1,23 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 18 July 2024
+* Made progress on checklist for Community Census Report 
+  * Finished editing and reviewing Recommendation 4
+  * Changed Conclusion section to Acknowledgements
+  * Reviewed outline for Executive Summary
+
+## 11 July 2024
+Cancelled due to lack of availability of team.
+
+## 3 July 2024
+* Reviewed checklist for completion of Community Census Report 
+  * Confirmed open items and next steps. 
+* Reviewed and edited recommendation 1 and 2
+* Created outline for Executive Summary, began brainstorming length and content
+* Reviewed schedules and availability
+  * Moving forward Rollin can respond asynchronously as time permits
+  * Jason is OOO from (July 10 - Aug 7 or so)
+
 ## 27 June 2024
 * Community Census Report: talked through recommendations for the onboarding recommendation. Rollin created a checklist for publishing, and we edited and added to it during the meeting. 
 * We also discussed how and where we would publish this report. We converged on adding an Executive Summary on our Team Compass and put a link to the PDF. We could then publish that link to a Discourse post. 
