@@ -1,5 +1,13 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 24 July 2024
+* Approved minutes from July - got caught up on backlog of public minutes
+* Updated affiliation for Rollin on Leadership directory to “former leadership” and reached out to confirm he’s ready to be removed from the mailing list and the calendar entry
+* Review checklist for Community Census Report 
+  * Review next steps on Executive Summary and Ana’s content
+  * Ana added some text to the acknowledgements section.
+  * Made a plan for next week
+
 ## 18 July 2024
 * Made progress on checklist for Community Census Report 
   * Finished editing and reviewing Recommendation 4
