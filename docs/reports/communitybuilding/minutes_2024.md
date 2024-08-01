@@ -1,5 +1,12 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 1 August 2024
+* Updated Leadership Directory: https://github.com/jupyter/governance/pull/234 , opened issue on Team Compass to request review
+* Reviewed changes to the executive summary of the Community Census Report
+* Removed Rollin from Leadership Directory, Google Group, and calendar invite
+* Address remaining comments in the report
+* Discussed publishing process for Community Census Report
+
 ## 24 July 2024
 * Approved minutes from July - got caught up on backlog of public minutes
 * Updated affiliation for Rollin on Leadership directory to “former leadership” and reached out to confirm he’s ready to be removed from the mailing list and the calendar entry
