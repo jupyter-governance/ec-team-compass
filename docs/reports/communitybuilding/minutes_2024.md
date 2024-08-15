@@ -1,5 +1,11 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 15 August 2024
+* Reviewed Community Report and made a plan for next meeting. We’re in the final proofreading stage.
+
+## 7 August 2024
+Canceled due to lack of availability of 2 out of 3 team members. 
+
 ## 1 August 2024
 * Updated Leadership Directory: https://github.com/jupyter/governance/pull/234 , opened issue on Team Compass to request review
 * Reviewed changes to the executive summary of the Community Census Report
