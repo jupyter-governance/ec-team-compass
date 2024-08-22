@@ -6,4 +6,5 @@ To contact the JCB privately, email the JCB mailing list at <jupyter-community-b
 
 ```{toctree}
 2024 Meeting Minutes <minutes_2024.md>
+2024 Community Building Survey Report <https://jupyter.org/governance/Jupyter_Community_Building_Survey_Report_2024.pdf>
 ```
