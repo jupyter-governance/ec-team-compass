@@ -1,5 +1,17 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 29 August 2024
+Attendees: Ana Ruvalcaba, Jason Grout
+
+* Final editing of report and blog post
+* Blog post submitted to Jupyter Media Strategy group for approval
+* Final report pdf uploaded to the JCB team compass
+
+## 22 August 2024
+Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
+
+* Reviewed Community Report and blog post for announcement. We’re in the final publishing stage.
+
 ## 15 August 2024
 * Reviewed Community Report and made a plan for next meeting. We’re in the final proofreading stage.
 
