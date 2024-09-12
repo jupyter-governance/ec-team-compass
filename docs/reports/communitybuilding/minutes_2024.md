@@ -1,5 +1,12 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 12 September 2024
+Attendees: Ana Ruvalcaba, Martha Cryan
+
+* Reviewed Community Building Report - discussed ideas for how to increase impact and how to translate recommendations into action items for this committee
+* Recognizing that some of the recommendations are highly dependant on funding and support from the Executive Council
+* Brainstormed and speculated on what timelines we may be facing for introducing new programs or opportunities for the community. We may not be able to take action until 2025 and Jupyter is mid process of moving from NumFOCUS to Linux Charities and spinning up a new foundation. 
+
 ## 29 August 2024
 Attendees: Ana Ruvalcaba, Jason Grout
 
