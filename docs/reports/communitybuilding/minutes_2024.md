@@ -1,5 +1,9 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 19 September 2024
+* Discussed ideas for how to translate recommendations from Community Building report into action items for this committee
+* Brainstormed how to continue to amplify the reach or the number of people who have read the report
+
 ## 12 September 2024
 Attendees: Ana Ruvalcaba, Martha Cryan
 
