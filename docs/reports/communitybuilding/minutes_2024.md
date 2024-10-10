@@ -1,5 +1,11 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 3 October 2024
+Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
+
+* Continued discussion of ideas for how to translate recommendations from Community Building report into action items for this committee, the EC, and the SSC. 
+* Prep for discussion with EC about Community Report https://docs.google.com/document/d/1N5jm0VJlDUX4WK0n7Ia8Ff63RdzNYkH28PkSZPdBtUc/edit#heading=h.o2nbpymvtd6t
+
 ## 26 September 2024
 Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
 
