@@ -1,5 +1,11 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 10 October 2024
+Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
+
+* Discussed take-aways from the EC discussion of the JCB survey report
+* Reviewed priorities that have been on hold due to a focus on report writing. Two items we’ve put on hold was a review of our charter and working group activity report to the EC. 
+
 ## 3 October 2024
 Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
 
