@@ -1,5 +1,11 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 17 October 2024
+Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
+
+* Updated charter to remove NumFOCUS from JCB charter: https://github.com/jupyter/governance/pull/238  (pending approval from EC)
+* Revisited report to the EC and made a plan to send it in January of 2025.
+
 ## 10 October 2024
 Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
 
