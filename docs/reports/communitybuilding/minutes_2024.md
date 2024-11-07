@@ -1,5 +1,15 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 31 October 2024
+Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
+* Conducted a test of the LF Zoom channel and discussed the process for launching a new resource to the community. Focused on what would be the easiest thing for everyone and decided to avoid creating any new processes that have to be centrally managed.. 
+* Generated a list of questions for LF to answer related to channel logistics.
+* Reviewed recommendations and next steps from Community Report. Additional brainstorming / work on Recommendation 1 from report (Create a sustainable events program for subprojects). Current frame for our thoughts is what can the EC/SSC/JCB do to respond to this recommendation. 
+
+## 24 October 2024
+Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
+* Reviewed recommendations and next steps from Community Report. Additional brainstorming / work on community report. Current frame for our thoughts is what can the EC/SSC/JCB do to respond to this recommendation. We decided to focus and prioritize Recommendation 2: Establish a mechanism for requesting resources.
+  
 ## 17 October 2024
 Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
 
