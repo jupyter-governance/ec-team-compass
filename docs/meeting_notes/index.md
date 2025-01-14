@@ -6,4 +6,5 @@ The Jupyter Executive Council meets privately each week. A summary of meeting no
 :titlesonly:
 2023
 2024
+2025
 ```
