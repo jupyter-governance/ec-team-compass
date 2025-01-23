@@ -1,5 +1,26 @@
 # Jupyter Community Building Working Group 2024 Meeting Minutes
 
+## 12 December 2024
+Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
+* Discussed a pitch to EC/Jupyter Foundation governing board about an events program. Fleshed out a basic budget proposal for 5-7 subproject events in 2025 (including program management help).
+
+## 5 December 2024
+Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
+* Continued work on creating a proposal for the Jupyter foundation for a new structure for Jupyter Community Workshops. Current thoughts:
+   * Who could apply? Subproject councils, SSC, working groups, standing committees, EC.
+   * Who approves the program global budget? Jupyter Foundation governing board.
+   * Who would help support logistics? Get quote from LF for event management services.
+
+
+## 14 November 2024
+Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
+* Continued work on creating a proposal for the Jupyter foundation for a new structure for Jupyter Community Workshops
+
+## 7 November 2024
+Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
+* Short meeting (30 minutes)
+* Brainstormed new structure for Jupyter Community Workshops
+
 ## 31 October 2024
 Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
 * Conducted a test of the LF Zoom channel and discussed the process for launching a new resource to the community. Focused on what would be the easiest thing for everyone and decided to avoid creating any new processes that have to be centrally managed.. 
