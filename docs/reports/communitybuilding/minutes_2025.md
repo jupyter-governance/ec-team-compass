@@ -12,7 +12,6 @@ Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
 * Prepped for meeting with Katie Greenly from Cloud Native Computing Foundation (CNCF) related to a regional event program in the Kubernetes community. 
 * Outlined next steps for a governing board proposal related to Jupyter Community Workshops
 
-
 ## 16 January 2025
 Attendees: Ana Ruvalcaba, Jason Grout, Martha Cryan
 * Gathered materials from previous 4 rounds of JCW’s - https://jupyter.org/community#calendar
