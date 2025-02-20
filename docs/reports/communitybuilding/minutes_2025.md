@@ -2,8 +2,8 @@
 
 ## 13 February 2025
 Attendees: Jason, Ana, Martha
-* Discussed creating a 1 page overview for Jupyter Community Workshops as we seek funding for this event series
-* Reviewed proposal for Hack Junction event in Europe. They are seeking sponsorship. 
+* Discussed creating a 1 page overview for Jupyter Community Workshops as we seek funding for this event series. We also reviewed our budget estimates and assumptions.
+* Reviewed proposal for Hack Junction event in Europe. They are seeking sponsorship.
 
 ## 6 February 2025
 Canceled due to member availability. 
