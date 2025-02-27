@@ -6,7 +6,7 @@ Attendees: Jason, Ana, Martha
   * Appeal to UoC
   * Create a blog post that includes a form to apply to the committee
   * JupyterCon: submit a panel or breakout session on working groups and standing committees
-  * Governing board: perhaps people at those organizations would like to volunteer for Jupyter in this capacity
+  * Governing board: perhaps members of this board have people at their organizations that would like to join
 * Continued discussion of pitching funding for JCW’s. Landed on a draft of a 1 page doc and overview of a JCW overview that can be used when pitching funding.
 
 
