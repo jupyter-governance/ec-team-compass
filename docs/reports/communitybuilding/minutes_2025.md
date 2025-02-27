@@ -1,5 +1,15 @@
 # Jupyter Community Building Working Group 2025 Meeting Minutes
 
+## 20 February 2025
+Attendees: Jason, Ana, Martha
+* Brainstorm ideas for adding people to the JCB committee. Would want to vet people coming on, so would have a form people can fill out.
+  * Appeal to UoC
+  * Create a blog post that includes a form to apply to the committee
+  * JupyterCon: submit a panel or breakout session on working groups and standing committees
+  * Governing board: perhaps people at those organizations would like to volunteer for Jupyter in this capacity
+* Continued discussion of pitching funding for JCW’s. Landed on a draft of a 1 page doc and overview of a JCW overview that can be used when pitching funding.
+
+
 ## 13 February 2025
 Attendees: Jason, Ana, Martha
 * Discussed creating a 1 page overview for Jupyter Community Workshops as we seek funding for this event series. We also reviewed our budget estimates and assumptions.
