@@ -29,6 +29,7 @@ EC members allocate time during our weekly scheduled meetings to review new issu
 ```{toctree}
 :titlesonly:
 operations
+accounts
 meeting_notes/index
 office_hours/index
 reports/communitybuilding/readme
