@@ -1,4 +1,4 @@
-# Accounts and login in formation
+# Accounts and login information
 
 (passwords)=
 ## 1Password
