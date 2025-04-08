@@ -1,5 +1,14 @@
 # Jupyter Community Building Working Group 2025 Meeting Minutes
 
+## 6 March 2025
+Attendees: Jason, Martha
+* Brief meeting. Communicated with the LF events team on community workshops to secure a quote for services. 
+
+## 27 February 2025
+Attendees: Jason, Ana, Martha
+* Update on JupyterCon 2025: Unclear what the level of action for JCB will be in JupyterCon. 
+* Discussed ideas for moving forward with relaunching Jupyter Community Workshop. 
+
 ## 20 February 2025
 Attendees: Jason, Ana, Martha
 * Brainstorm ideas for adding people to the JCB committee. Would want to vet people coming on, so would have a form people can fill out.
