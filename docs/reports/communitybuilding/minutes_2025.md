@@ -1,8 +1,13 @@
 # Jupyter Community Building Working Group 2025 Meeting Minutes
 
-## 6 March 2025
+## 3 April 2025
+Attendees: Jason, Martha, Ana
+* Focused on getting Ana up to speed after some time away from the working group due to vacation and back to back conferences. 
+* Discussed presenting a proposal to the Governing board for funding as the next step once we received the pending quote from the LF events team. 
+
+## 6, 13, & 26 March 2025
 Attendees: Jason, Martha
-* Brief meeting. Communicated with the LF events team on community workshops to secure a quote for services. 
+* Brief meetings (not a full hour). Communicated with the LF events team on community workshops to secure a quote for services. 
 
 ## 27 February 2025
 Attendees: Jason, Ana, Martha
