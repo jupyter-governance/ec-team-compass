@@ -19,3 +19,10 @@ The Jupyter-wide Google Calendar is managed by the Jupyter Google account.
 Any JEC member can modify the entries by logging in under the Google account and modifying them directly.
 
 Alternatively, you can delegate rights to your own Google account for modifying the calendar.
+
+(cloudflare)=
+## CloudFlare for URLs and DNS
+
+Jupyter has a CloudFlare account that controls the DNS for all of the Jupyter domains.
+All **Executive Council** members have access to this account.
+For credentials see [the Jupyter passwords service](#passwords).
