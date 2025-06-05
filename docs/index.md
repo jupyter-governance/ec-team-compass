@@ -23,14 +23,3 @@ EC members allocate time during our weekly scheduled meetings to review new issu
 **Other Channels:**
 * [Issues on the main Governance Repository](https://github.com/jupyter/governance): offer a space for broader discussion about Governance with the entire community, and are better suited for conversations where input from bodies like the [Software Steering Council](https://jupyter.org/governance/software_steering_council.html), project teams and individuals are sought. **If you need to flag an issue specifically for input by the EC, please tag the team with `@executive-council`**.  The EC will move issues between this general Governance repo and the EC team compass when appropriate.
 * [The Governance category on Discourse](https://discourse.jupyter.org/c/meta/governance/23): is _not formally monitored by the EC_, due to limited bandwidth. It is OK for the community to discuss governance topics there and EC members may occasionally post, but we can not commit to actively monitoring it.
-
-## Table of Contents
-
-```{toctree}
-:titlesonly:
-operations
-accounts
-meeting_notes/index
-office_hours/index
-reports/communitybuilding/readme
-```
