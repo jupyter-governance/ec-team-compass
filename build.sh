@@ -4,4 +4,4 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r docs/requirements.txt
 cd docs
-make html SPHINXOPTS='-W'
+make dirhtml SPHINXOPTS='-W'
