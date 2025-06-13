@@ -13,7 +13,7 @@ Each EC member has access to a Google Workspace account tied to the jupyter.org 
 
 ## E-mail and Google account
 
-We have a shared GMail account at `projectjupyter@gmail.com`.
+We have a shared GMail account at `projectjupyter@gmail.com`. This is different from the Google Workspaces account defined above, and is from earlier phases of the project.
 This is used as a common login for many services and tools that we use.
 See [](#passwords) for login credentials.
 
