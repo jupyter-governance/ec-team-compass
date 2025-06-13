@@ -7,6 +7,10 @@ We share all Jupyter passwords in a 1Password account.
 All JEC team members should have access to this account.
 If you do not, ask another team member for access.
 
+## Google Workspace account
+
+Each EC member has access to a Google Workspace account tied to the jupyter.org domain. This workspace account hosts shared drives, jupyter.org google groups, and other infrastructure. The account names are of the form first.last@jupyter.org.
+
 ## E-mail and Google account
 
 We have a shared GMail account at `projectjupyter@gmail.com`.
