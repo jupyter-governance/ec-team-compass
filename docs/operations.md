@@ -22,6 +22,8 @@ Any other team member is encouraged to merge that pull request.
 
 For private synchronous team communication, we use a private channel in [the Jupyter Zulip](https://jupyter.zulipchat.com).
 
+**WhatApp**: We used to have a WhatsApp group for Executive Council communication, but we no longer use this.
+
 ### External communication
 
 The JEC is piloting an experiment to encourage more informal external communication from JEC members. Below are the general guidelines we're following, see this issue for updates: https://github.com/jupyter-governance/ec-team-compass/issues/127
