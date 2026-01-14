@@ -40,3 +40,22 @@ All **Executive Council** members have access to this account.
 **Delegate to user accounts rather than using the shared account**.  CloudFlare allows you to [delegate access and control to user accounts](https://developers.cloudflare.com/fundamentals/manage-members/manage/) which is strongly preferred over using the shared account.
 service](#passwords); create a Cloudflare account using your own
 username/password, and ask a Cloudflare admin to be added as a delegated user.
+
+## Zoom
+
+We use the Linux Foundation meeting system for scheduling virtual meetings using
+Zoom. To schedule a virtual meeting for Jupyter, please contact a member of the
+Executive Council.
+
+To lower the friction of collaborating, we have one Zoom meeting open every day
+from noon-10pm UTC. Many subprojects use this shared project Zoom meeting for
+their meetings.
+
+In order to administer a Zoom meeting, including recording a meeting, you need
+the Host Key for the meeting. If you have permission to see the Host Key for a
+meeting, you can access it by doing the following:
+
+1. Log into https://lfx.linuxfoundation.org/
+2. Under the Action Center block, click the meeting name (don't click "join")
+3. In the popup with meeting info, you will be able to see the Host Key as one of fields
+4. In Zoom, open the participant view, click "Claim Host", and enter the host key
