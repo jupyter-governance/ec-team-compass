@@ -30,6 +30,7 @@ EC members allocate time during our weekly scheduled meetings to review new issu
 :titlesonly:
 operations
 accounts
+finances
 meeting_notes/index
 office_hours/index
 reports/communitybuilding/readme
