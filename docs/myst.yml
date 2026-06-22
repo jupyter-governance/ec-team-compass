@@ -1,0 +1,41 @@
+version: 1
+project:
+  id: 59ea3ba0-0cb4-4e8b-89b0-bb179a88d574
+  title: Jupyter Executive Council Team Compass
+  description: Team practices, information, and policy for the Jupyter Executive Council
+  github: https://github.com/jupyter-governance/ec-team-compass
+  references:
+    foundation: https://jupyter-governance.github.io/jupyter-foundation-governing-board
+  toc:
+    - file: index.md
+    - file: operations.md
+    - file: accounts.md
+    - file: finances.md
+    - title: Meeting Notes
+      file: meeting_notes/index.md
+      children:
+        - file: meeting_notes/2026.md
+        - file: meeting_notes/2025.md
+        - file: meeting_notes/2024.md
+        - file: meeting_notes/2023.md
+        - title: Archived notes
+          children:
+          - title: Office Hours
+            file: office_hours/index.md
+            children:
+              - file: office_hours/2023_Q1.md
+              - file: office_hours/2023_Q2.md
+    - title: Reports
+      children:
+        - file: reports/index.md
+        - file: reports/communitybuilding/readme.md
+        - file: reports/communitybuilding/minutes_2024.md
+        - file: reports/communitybuilding/minutes_2025.md
+        - file: reports/communitybuilding/report_2023H1.md
+site:
+  template: book-theme
+  options:
+    favicon: _static/favicon.png
+    logo: _static/rectanglelogo-greytext-orangebody-greymoons.svg
+    logo_dark: _static/rectanglelogo-whitetext-orangebody-whitemoons.svg
+    logo_text: Executive Council

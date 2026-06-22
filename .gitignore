@@ -1,2 +1,4 @@
 .venv
+.nox
+__pycache__/
 docs/_build
