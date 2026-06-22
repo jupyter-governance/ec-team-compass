@@ -8,8 +8,8 @@ This page explains how grants and other funds flow through the LF structures tha
 
 Two LF entities can receive and hold Jupyter funds:
 
-- **The Jupyter Foundation Directed Fund** is the main pool of Jupyter money, governed by the Jupyter Foundation's governing board under the umbrella of [The Linux Foundation 501(c)(6)](https://projects.propublica.org/nonprofits/organizations/460503801).
-- **Project Jupyter** is an open-source project housed in the [LF Charities Inc 501(c)(3) nonprofit](https://projects.propublica.org/nonprofits/organizations/841730246). Project Jupyter is governed by the Jupyter Executive Council, a community-elected group that also sits on the Jupyter Foundation governing board. LF Charities is a 509(a)(3) "supporting organization" for the LF 501(c)(6). That legal relationship is what lets Project Jupyter receive funds in LF Charities and later move them into the Jupyter Foundation to save on G&A overhead.
+- **[The Jupyter Foundation](https://jupyterfoundation.org/)** is a directed fund of [The Linux Foundation 501(c)(6)](https://projects.propublica.org/nonprofits/organizations/460503801). This is the main pool of Jupyter money and is governed by the Jupyter Foundation's governing board.
+- **[LF Charities Inc](https://lf-charities.org/)** hosts Project Jupyter as an open-source project and is a [501(c)(3) nonprofit](https://projects.propublica.org/nonprofits/organizations/841730246). Project Jupyter is governed by the Jupyter Executive Council, a community-elected group that also sits on the Jupyter Foundation governing board. LF Charities is a 509(a)(3) "supporting organization" for the LF 501(c)(6). That legal relationship is what lets Project Jupyter receive funds in LF Charities and later move them into the Jupyter Foundation to save on G&A overhead.
 
 :::{warning} Open question: grants raised by someone other than the EC
 The Executive Council controls the 501(c)(3), so it directs how those funds are spent.
