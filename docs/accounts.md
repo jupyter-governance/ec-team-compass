@@ -37,9 +37,19 @@ Jupyter has a CloudFlare account that controls the DNS for all of the Jupyter do
 
 All **Executive Council** members have access to this account.
 
-**Delegate to user accounts rather than using the shared account**.  CloudFlare allows you to [delegate access and control to user accounts](https://developers.cloudflare.com/fundamentals/manage-members/manage/) which is strongly preferred over using the shared account.
-service](#passwords); create a Cloudflare account using your own
-username/password, and ask a Cloudflare admin to be added as a delegated user.
+**Delegate to user accounts rather than using the shared account**. As with the [1Password service](#passwords), CloudFlare lets you [delegate access to user accounts](https://developers.cloudflare.com/fundamentals/manage-members/manage/): create a CloudFlare account with your own username and password, and ask a CloudFlare admin to add you as a delegated user.
+
+### Proxy status and HTTPS for hosted sites (GitHub Pages, Netlify, Read the Docs)
+
+CloudFlare's proxy (the orange cloud icon) is on by default for new DNS records. If a domain points to a hosting provider that issues its own HTTPS certificate, a proxied record can break the SSL certificate process, because the provider can no longer see the real DNS target to validate the domain.
+
+**To fix this**: set the record in CloudFlare to "DNS only" (grey cloud) so the host handles HTTPS directly. Here are a few static hosts this might apply to:
+
+- **GitHub Pages**: [community discussion](https://github.com/orgs/community/discussions/23632)
+- **Netlify**: [DNS & HTTPS troubleshooting](https://docs.netlify.com/manage/domains/troubleshooting-tips/)
+- **Read the Docs**: their docs tell you to disable the proxy on the CNAME record, since Cloudflare won't proxy a domain that's already proxied on Read the Docs' own Cloudflare account. See their [custom domains guide](https://github.com/readthedocs/readthedocs.org/blob/main/docs/user/guides/custom-domains.rst).
+
+If a site needs CloudFlare-specific features like caching or a WAF, keep the proxy on and use a CloudFlare Certificate instead, but this might not work for things like double-level subdomains (e.g. `foo.bar.jupyter.org`).
 
 ## Zoom
 
