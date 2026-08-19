@@ -18,6 +18,17 @@ We have not settled what happens when someone else, such as a subproject or indi
 We need a clear policy for who decides how that money is spent.
 :::
 
+## How we use the money
+
+Day to day, the EC treats these as two pots:
+
+- **Foundation budget** pays for ongoing costs like the security contractor, Distinguished Contributor awards, and team services such as [Plausible](accounts.md#plausible). It rises and falls year to year depending on the Foundation's revenue and how much has already been spent.
+- **Charities account** is a fixed reserve for the project alone, controlled by the EC. **We use it only as a last resort or in emergencies**, and use the foundation budget for regular spending.
+
+## Financial reports
+
+LF prepares financial reports for the EC, covering both the foundation budget and the charities account. They're stored in [this Google Drive folder](https://drive.google.com/drive/folders/1nHhycs6tiWw__8-fdB5Txdfe1nT4GxfQ?usp=drive_link). Our [LF Program Manager](xref:foundation#role:program-manager) can also generate ad hoc spending or account reports for either pot on request.
+
 ## G&A fees (aka indirect fees)
 
 The LF charges a general and administrative (G&A) fee on income to cover the administration cost. The rate is **9%** on the first 1 million USD of income in a year and **6%** on income over that. The fee is assessed when the income lands in its _final destination fund_, not when it first arrives. 
