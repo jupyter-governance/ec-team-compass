@@ -15,7 +15,7 @@ For more details about how the Executive Council operates, see the [operational 
 To contact the [Jupyter Executive Council (EC)](https://jupyter.org/about#executive-council-members), please choose the option that best fits your needs:
 
 * [Issues on the EC Team Compass repository](https://github.com/jupyter/executive-council-team-compass/issues): for _open, public discussion_. We monitor this repository and allocate time on our regular weekly meetings to triage open and active issues.
-* [EC mailing list](mailto:jupyter-executive-council@googlegroups.com): for _private communication_ with the EC, email our list, which is open for public posting, but only executive council members can read messages or archives.
+* [EC mailing list](mailto:executive-council@jupyter.org): for _private communication_ with the EC, email our list, which is open for public posting, but only executive council members can read messages or archives.
 * [Bi-weekly EC Office Hours Zoom call](https://zoom.us/j/2264645576?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09): for _synchronous, public conversation_, you can join our office hours call, which is listed in the [project Google Calendar](https://jupyter.org/community#calendar). You can add topics to the agenda (see calendar entry for link) with additional details/references prior to the meeting.
 
 EC members allocate time during our weekly scheduled meetings to review new issues, incoming communications, and active open issues.
