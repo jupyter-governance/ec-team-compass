@@ -69,3 +69,9 @@ meeting, you can access it by doing the following:
 2. Under the Action Center block, click the meeting name (don't click "join")
 3. In the popup with meeting info, you will be able to see the Host Key as one of fields
 4. In Zoom, open the participant view, click "Claim Host", and enter the host key
+
+(plausible)=
+## Plausible
+
+We use [Plausible](https://plausible.io/) to track web traffic across Jupyter sites (`docs.jupyter.org`, `jupyter.org`, `mybinder.org`, `nbviewer.org`, and others), so that the EC can make decisions with real usage data. The [jupyter.org dashboard](https://plausible.io/jupyter.org/) is public.
+The subscription is paid for out of the [foundation budget](finances.md#how-we-use-the-money).
